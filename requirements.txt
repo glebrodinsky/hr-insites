@@ -1,0 +1,5 @@
+matplotlib
+pandas
+psycopg2-binary
+yandex-cloud-ml-sdk
+requests
